@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col items-center justify-between gap-4 sm:flex-row">
           <p className="text-sm text-gray-400">© {new Date().getFullYear()} Alex Kiprono. All rights reserved.</p>
           <div className="flex gap-6">
-            <a href="https://github.com/AlexKiprono" className="text-gray-400 hover:text-white transition-colors">
+            <a href="https://github.com/ialex-dev" className="text-gray-400 hover:text-white transition-colors">
               GitHub
             </a>
             <a href="https://www.linkedin.com/in/alex-kiprono/" className="text-gray-400 hover:text-white transition-colors">
